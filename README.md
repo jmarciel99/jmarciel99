@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jmarciel99/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jmarciel99/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
